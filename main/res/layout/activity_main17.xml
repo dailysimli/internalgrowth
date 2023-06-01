@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity17">
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="    감상력
+\n\n\n\n\n당신은 “감상력”이라는 강점을 가진 사람입니다.
+\n\n\n당신은 다양한 삶의 영역에서 나타나는 아름다움, 수월성, 뛰어난 수행을 인식하고 평가하는 능력이 뛰어납니다. 당신은 길을 걷거나 신문을 읽거나 다른 사람의 삶을 접하게 되거나 운동경기를 보는 등 다양한 삶의 장면에서 아름다움과 탁월함에 대한 경이로움을 민감하게 느끼고 이로 인해  즐거움을 얻는 능력을 가지고 있습니다. 당신이 이 능력을 잘 활용한다면 이 능력을 통해 매일 더 큰 기쁨을 느낄 수 있고 자신의 삶에서 더 많은 의미를 발견하고 다른 사람과 더 깊은 관계를 맺는데 큰 도움이 될 것입니다.
+\nex) 자연세계, 미술작품, 음악 연주를 접하면서 그 아름다움을 느끼며 깊은 감동 경험
+
+
+\n\n\n증진방법)
+\n1.나에게 익숙하지 않은 미술관이나 박물관을 찾아가본다
+\n2.매일 내가 본 아름다운 것들을 기록하는 ‘아름다움 일지’를 만들어 작성해본다(ex 길가에 핀 꽃, 노을, 하늘의 구름, 손을 잡고 걸어가는 가족의 모습 등등).
+\n3.적어도 하루에 한 번씩 잠시 멈추어 자연의 아름다움(ex 일출이나 일몰, 식물이나 꽃 노래    하는 새)을 느껴본다.
+"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</ScrollView>

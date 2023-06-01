@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity30">
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="   용감성
+
+\n\n\n\n\n변화와 성장은 한 인간의 모험을 하고, 자기의 인생을 시험해 볼 때 이루어진다.\n
+                                                -허버트 오트-
+
+\n\n\n당신은 “용감성”라는 강점을 가지고 있습니다.\n\n\n당신은 위협, 도전, 난관, 고통으로부터 위축되지 않고 이를 극복하는 능력을 가지고 있습니다. 당신은 반대가 있더라도 옳다고 생각하는 것을 주장하거나 다른 사람이 싫어하더라도 신념에 따라 행동을 하는 사람이며 위협, 도전, 난관, 고통으로부터 위축되지 않고 이를 잘 극복하는 능력을 가지고 있습니다. 뿐만 아니라 본인의 문제나 약점을 인정하고 약점을 극복 하는 능력이 뛰어납니다. 당신이 이 능력을 잘 활용한다면 앞으로 일어날 다양한 역경들그리고 다양한 유혹들을 잘 극복해 나갈 수 있을 것입니다.
+\n\n\n대표 인물)
+\n에드먼드 힐러리 ->에베레스트 산을 최초로 등정한 분
+\n랜스 암스트롱 : 암을 이겨내고 세계 사이클 대회를 7연패한 선수
+
+\n\n\n증진방법)
+\n1. 여러 사람들에서 나의 독특한 생각을 말해본다.
+\n2. 분명히 정당하지 않은 것을 나에게 지키도록 요구하는 기관이나 권위자에게 항의한다
+\n3. 두렵기 때문에 내가 평소에 하지 않았던 일들을 해본다."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</ScrollView>

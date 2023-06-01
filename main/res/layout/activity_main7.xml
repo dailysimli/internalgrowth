@@ -1,0 +1,1589 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity7">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+
+        <RadioGroup
+            android:id="@+id/rg115"
+            android:layout_width="400dp"
+            android:layout_height="300dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="0dp">
+
+            <TextView
+                android:id="@+id/content115"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="115. 나는 일반인이 모르고 지나치는 것에서 아름다움을 발견한다."
+                android:textSize="17sp" />
+
+            <RadioButton
+                android:id="@+id/rb115_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="전혀 그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb115_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb115_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="보통이다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb115_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb115_5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="매우 그렇다"
+                android:textSize="15sp"/>
+
+
+        </RadioGroup>
+
+        <RadioGroup
+            android:id="@+id/rg116"
+            android:layout_width="400dp"
+            android:layout_height="300dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="0dp">
+
+            <TextView
+                android:id="@+id/content116"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="116.  나는 자연의 아름다움을 항상 느끼며 살아간다."
+                android:textSize="17sp" />
+
+            <RadioButton
+                android:id="@+id/rb116_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="전혀 그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb116_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb116_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="보통이다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb116_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb116_5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="매우 그렇다"
+                android:textSize="15sp"/>
+
+        </RadioGroup>
+
+
+        <RadioGroup
+            android:id="@+id/rg117"
+            android:layout_width="400dp"
+            android:layout_height="300dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="0dp">
+
+            <TextView
+                android:id="@+id/content117"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="117. 나는 대부분의 예술 장르를 매우 즐긴다."
+                android:textSize="17sp" />
+
+            <RadioButton
+                android:id="@+id/rb117_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="전혀 그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb117_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb117_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="보통이다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb117_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb117_5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="매우 그렇다"
+                android:textSize="15sp"/>
+
+        </RadioGroup>
+
+        <RadioGroup
+            android:id="@+id/rg118"
+            android:layout_width="400dp"
+            android:layout_height="300dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="0dp">
+
+            <TextView
+                android:id="@+id/content118"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="118. 나는 아름다운 것을 보면 깊은 감동을 느낀다."
+                android:textSize="17sp" />
+
+            <RadioButton
+                android:id="@+id/rb118_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="전혀 그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb118_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb118_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="보통이다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb118_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb118_5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="매우 그렇다"
+                android:textSize="15sp"/>
+
+        </RadioGroup>
+
+        <RadioGroup
+            android:id="@+id/rg119"
+            android:layout_width="400dp"
+            android:layout_height="300dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="0dp">
+
+            <TextView
+                android:id="@+id/content119"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="119. 나는 매우 뛰어난 예술작품을 감상하기 위해 먼 곳을 여행한 적이 있다."
+                android:textSize="17sp" />
+
+            <RadioButton
+                android:id="@+id/rb119_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="전혀 그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb119_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb119_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="보통이다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb119_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb119_5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="매우 그렇다"
+                android:textSize="15sp"/>
+
+        </RadioGroup>
+
+        <RadioGroup
+            android:id="@+id/rg120"
+            android:layout_width="400dp"
+            android:layout_height="300dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="0dp">
+
+            <TextView
+                android:id="@+id/content120"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="120.  나는 평소에 자연의 아름다움, 다른 사람의 탁월한 기술이나 미덕을 예민하게 인식하여 잘 감동하는 편이다."
+                android:textSize="17sp" />
+
+            <RadioButton
+                android:id="@+id/rb120_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="전혀 그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb120_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb120_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="보통이다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb120_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb120_5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="매우 그렇다"
+                android:textSize="15sp"/>
+
+        </RadioGroup>
+
+        <RadioGroup
+            android:id="@+id/rg121"
+            android:layout_width="400dp"
+            android:layout_height="300dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="0dp">
+
+            <TextView
+                android:id="@+id/content121"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="121. 나는 내 인생에서 많은 축복을 받았다."
+                android:textSize="17sp" />
+
+            <RadioButton
+                android:id="@+id/rb121_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="전혀 그렇지 않다"
+                android:textSize="15sp" />
+
+            <RadioButton
+                android:id="@+id/rb121_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇지 않다"
+                android:textSize="15sp" />
+
+            <RadioButton
+                android:id="@+id/rb121_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="보통이다"
+                android:textSize="15sp" />
+
+            <RadioButton
+                android:id="@+id/rb121_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇다"
+                android:textSize="15sp" />
+
+            <RadioButton
+                android:id="@+id/rb121_5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="매우 그렇다"
+                android:textSize="15sp" />
+
+        </RadioGroup>
+
+        <RadioGroup
+            android:id="@+id/rg122"
+            android:layout_width="400dp"
+            android:layout_height="300dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="0dp">
+
+            <TextView
+                android:id="@+id/content122"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="122. 나를 돌보아주는 사람에게 항상 감사를 전한다."
+                android:textSize="17sp" />
+
+            <RadioButton
+                android:id="@+id/rb122_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="전혀 그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb122_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb122_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="보통이다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb122_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb122_5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="전혀 그렇지 않다"
+                android:textSize="15sp"/>
+
+        </RadioGroup>
+
+        <RadioGroup
+            android:id="@+id/rg123"
+            android:layout_width="400dp"
+            android:layout_height="300dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="0dp">
+
+            <TextView
+                android:id="@+id/content123"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="123. 내 생애 동안 내가 받은 것들에 대해서 감사한다."
+                android:textSize="17sp" />
+
+            <RadioButton
+                android:id="@+id/rb123_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="전혀 그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb123_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb123_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="보통이다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb123_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb123_5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="매우 그렇다"
+                android:textSize="15sp"/>
+
+        </RadioGroup>
+
+        <RadioGroup
+            android:id="@+id/rg124"
+            android:layout_width="400dp"
+            android:layout_height="300dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="0dp">
+
+            <TextView
+                android:id="@+id/content124"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="124. 나는 매일 깊은 감사를 느낀다."
+                android:textSize="17sp" />
+
+            <RadioButton
+                android:id="@+id/rb124_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="전혀 그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb124_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb124_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="보통이다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb124_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb124_5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="매우 그렇다"
+                android:textSize="15sp"/>
+        </RadioGroup>
+
+        <RadioGroup
+            android:id="@+id/rg125"
+            android:layout_width="400dp"
+            android:layout_height="300dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="0dp">
+
+            <TextView
+                android:id="@+id/content125"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="125. 내 삶을 돌이켜볼 때 감사해야 할 일들이 많다."
+                android:textSize="17sp" />
+
+            <RadioButton
+                android:id="@+id/rb125_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="전혀 그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb125_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb125_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="보통이다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb125_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb125_5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="매우 그렇다"
+                android:textSize="15sp"/>
+
+        </RadioGroup>
+
+        <RadioGroup
+            android:id="@+id/rg126"
+            android:layout_width="400dp"
+            android:layout_height="300dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="0dp">
+
+            <TextView
+                android:id="@+id/content126"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="126. 나는 평소에 다른 사람의 도움이나 보살핌에 대해서 감사함을 잘 느끼고 감사의 표현을 잘 하는 편이다."
+                android:textSize="17sp" />
+
+            <RadioButton
+                android:id="@+id/rb126_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="전혀 그렇지 않다"
+                android:textSize="15sp" />
+
+            <RadioButton
+                android:id="@+id/rb126_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb126_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="보통이다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb126_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb126_5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="매우 그렇다"
+                android:textSize="15sp"/>
+
+        </RadioGroup>
+
+
+        <RadioGroup
+            android:id="@+id/rg127"
+            android:layout_width="400dp"
+            android:layout_height="300dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="0dp">
+
+            <TextView
+                android:id="@+id/content127"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="127. 나는 내가 무슨 일을 하든지 유머를 곁들이려고 노력한다."
+                android:textSize="17sp" />
+
+            <RadioButton
+                android:id="@+id/rb127_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="전혀 그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb127_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb127_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="보통이다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb127_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb127_5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="매우 그렇다"
+                android:textSize="15sp"/>
+
+        </RadioGroup>
+
+        <RadioGroup
+            android:id="@+id/rg128"
+            android:layout_width="400dp"
+            android:layout_height="300dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="0dp">
+
+            <TextView
+                android:id="@+id/content128"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="128. 난 다른 사람들을 웃게 하고 즐겁게 하는 것에서 만족을 느낀다."
+                android:textSize="17sp" />
+
+            <RadioButton
+                android:id="@+id/rb128_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="전혀 그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb128_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb128_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="보통이다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb128_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb128_5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="매우 그렇다"
+                android:textSize="15sp"/>
+
+        </RadioGroup>
+
+        <RadioGroup
+            android:id="@+id/rg129"
+            android:layout_width="400dp"
+            android:layout_height="300dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="0dp">
+
+            <TextView
+                android:id="@+id/content129"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="129. 대부분의 사람들은 나와 함께 있으면 즐겁다고 한다."
+                android:textSize="17sp" />
+
+            <RadioButton
+                android:id="@+id/rb129_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="전혀 그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb129_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb129_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="보통이다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb129_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb129_5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="매우 그렇다"
+                android:textSize="15sp"/>
+
+        </RadioGroup>
+
+        <RadioGroup
+            android:id="@+id/rg130"
+            android:layout_width="400dp"
+            android:layout_height="300dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="0dp">
+
+            <TextView
+                android:id="@+id/content130"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="130. 나는 유머로 다른 사람의 하루를 기쁘게 하는 것을 좋아한다."
+                android:textSize="17sp"/>
+
+            <RadioButton
+                android:id="@+id/rb130_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="전혀 그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb130_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb130_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="보통이다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb130_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb130_5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="매우 그렇다"
+                android:textSize="15sp"/>
+
+        </RadioGroup>
+
+        <RadioGroup
+            android:id="@+id/rg131"
+            android:layout_width="400dp"
+            android:layout_height="300dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="0dp">
+
+            <TextView
+                android:id="@+id/content131"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="131.나는 유머감각이 뛰어난 사람으로 알려져 있다."
+                android:textSize="17sp" />
+
+            <RadioButton
+                android:id="@+id/rb131_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="전혀 그렇지 않다"
+                android:textSize="15sp" />
+
+            <RadioButton
+                android:id="@+id/rb131_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇지 않다"
+                android:textSize="15sp" />
+
+            <RadioButton
+                android:id="@+id/rb131_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="보통이다"
+                android:textSize="15sp" />
+
+            <RadioButton
+                android:id="@+id/rb131_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇다"
+                android:textSize="15sp" />
+
+            <RadioButton
+                android:id="@+id/rb131_5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="매우 그렇다"
+                android:textSize="15sp" />
+
+        </RadioGroup>
+
+        <RadioGroup
+            android:id="@+id/rg132"
+            android:layout_width="400dp"
+            android:layout_height="300dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="0dp">
+
+            <TextView
+                android:id="@+id/content132"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="132. 나는 평소에 다른 사람을 즐겁게 하거나 웃게 만드는 유머감각이나 장난기가 많은 편이다."
+                android:textSize="17sp" />
+
+            <RadioButton
+                android:id="@+id/rb132_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="전혀 그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb132_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb132_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="보통이다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb132_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb132_5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="전혀 그렇지 않다"
+                android:textSize="15sp"/>
+
+        </RadioGroup>
+
+        <RadioGroup
+            android:id="@+id/rg133"
+            android:layout_width="400dp"
+            android:layout_height="300dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="0dp">
+
+            <TextView
+                android:id="@+id/content133"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="133. 인생에는 의미가 있다고 믿는다."
+                android:textSize="17sp" />
+
+            <RadioButton
+                android:id="@+id/rb133_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="전혀 그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb133_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb133_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="보통이다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb133_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb133_5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="매우 그렇다"
+                android:textSize="15sp"/>
+
+        </RadioGroup>
+
+        <RadioGroup
+            android:id="@+id/rg134"
+            android:layout_width="400dp"
+            android:layout_height="300dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="0dp">
+
+            <TextView
+                android:id="@+id/content134"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="134. 나는 절대적인 힘 또는 신의 존재를 믿는다."
+                android:textSize="17sp" />
+
+            <RadioButton
+                android:id="@+id/rb134_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="전혀 그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb134_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb134_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="보통이다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb134_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb134_5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="매우 그렇다"
+                android:textSize="15sp"/>
+        </RadioGroup>
+
+        <RadioGroup
+            android:id="@+id/rg135"
+            android:layout_width="400dp"
+            android:layout_height="300dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="0dp">
+
+            <TextView
+                android:id="@+id/content135"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="135.  나는 종교적 수행을 게을리하지 않는다."
+                android:textSize="17sp" />
+
+            <RadioButton
+                android:id="@+id/rb135_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="전혀 그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb135_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb135_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="보통이다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb135_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb135_5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="매우 그렇다"
+                android:textSize="15sp"/>
+
+        </RadioGroup>
+
+        <RadioGroup
+            android:id="@+id/rg136"
+            android:layout_width="400dp"
+            android:layout_height="300dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="0dp">
+
+            <TextView
+                android:id="@+id/content136"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="136. 나의 삶에 중요한 영향을 미치는 종교가 있다."
+                android:textSize="17sp" />
+
+            <RadioButton
+                android:id="@+id/rb136_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="전혀 그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb136_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb136_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="보통이다" />
+
+            <RadioButton
+                android:id="@+id/rb136_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb136_5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="매우 그렇다"
+                android:textSize="15sp"/>
+
+        </RadioGroup>
+
+
+        <RadioGroup
+            android:id="@+id/rg137"
+            android:layout_width="400dp"
+            android:layout_height="300dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="0dp">
+
+            <TextView
+                android:id="@+id/content137"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="137.  지난 24시간 이내에 명상이나 기도를 하는 데 30분 이상을 보냈다."
+                android:textSize="17sp" />
+
+            <RadioButton
+                android:id="@+id/rb137_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="전혀 그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb137_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb137_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="보통이다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb137_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb137_5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="매우 그렇다"
+                android:textSize="15sp"/>
+
+        </RadioGroup>
+
+        <RadioGroup
+            android:id="@+id/rg138"
+            android:layout_width="400dp"
+            android:layout_height="300dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="0dp">
+
+            <TextView
+                android:id="@+id/content138"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="138. 나는 평소에 삶의 궁극적 의미를 발견하고 초월적인 체험을 하기 위해서 종교 활동과 관련된 활동을 많이 하는 편이다."
+                android:textSize="17sp" />
+
+            <RadioButton
+                android:id="@+id/rb138_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="전혀 그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb138_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb138_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="보통이다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb138_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb138_5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="매우 그렇다"
+                android:textSize="15sp"/>
+
+        </RadioGroup>
+
+        <RadioGroup
+            android:id="@+id/rg139"
+            android:layout_width="400dp"
+            android:layout_height="300dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="0dp">
+
+            <TextView
+                android:id="@+id/content139"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="139.  어려움에도 불구하고 난 미래에 대해서 항상 희망적이다."
+                android:textSize="17sp" />
+
+            <RadioButton
+                android:id="@+id/rb139_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="전혀 그렇지 않다"
+                android:textSize="15sp"/>
+
+
+            <RadioButton
+                android:id="@+id/rb139_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇지 않다"
+                android:textSize="15sp" />
+
+            <RadioButton
+                android:id="@+id/rb139_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="보통이다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb139_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb139_5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="매우 그렇다"
+                android:textSize="15sp"/>
+
+        </RadioGroup>
+
+        <RadioGroup
+            android:id="@+id/rg140"
+            android:layout_width="400dp"
+            android:layout_height="300dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="0dp">
+
+            <TextView
+                android:id="@+id/content140"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="140. 어려움에도 불구하고 난 미래에 대해서 항상 희망적이다."
+                android:textSize="17sp" />
+
+            <RadioButton
+                android:id="@+id/rb140_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="전혀 그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb140_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb140_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="보통이다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb140_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb140_5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="매우 그렇다"
+                android:textSize="15sp"/>
+
+        </RadioGroup>
+
+        <RadioGroup
+            android:id="@+id/rg141"
+            android:layout_width="400dp"
+            android:layout_height="300dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="0dp">
+
+            <TextView
+                android:id="@+id/content141"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="141. 만약 내가 낮은 학점을 받는다면 나는 다음 기회를 생각하고 더 잘하기 위해서 노력한다."
+                android:textSize="17sp" />
+
+            <RadioButton
+                android:id="@+id/rb141_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="전혀 그렇지 않다"
+                android:textSize="15sp" />
+
+            <RadioButton
+                android:id="@+id/rb141_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇지 않다"
+                android:textSize="15sp" />
+
+            <RadioButton
+                android:id="@+id/rb141_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="보통이다"
+                android:textSize="15sp" />
+
+            <RadioButton
+                android:id="@+id/rb141_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇다"
+                android:textSize="15sp" />
+
+            <RadioButton
+                android:id="@+id/rb141_5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="매우 그렇다"
+                android:textSize="15sp" />
+
+        </RadioGroup>
+
+        <RadioGroup
+            android:id="@+id/rg142"
+            android:layout_width="400dp"
+            android:layout_height="300dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="0dp">
+
+            <TextView
+                android:id="@+id/content2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="142 다른 사람들이 부정적이라고 생각하는 것에서도 나는 긍정적인 면을 잘 찾아낸다."
+                android:textSize="17sp" />
+
+            <RadioButton
+                android:id="@+id/rb142_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="전혀 그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb142_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb142_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="보통이다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb142_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb142_5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="전혀 그렇지 않다"
+                android:textSize="15sp"/>
+
+        </RadioGroup>
+
+        <RadioGroup
+            android:id="@+id/rg143"
+            android:layout_width="400dp"
+            android:layout_height="300dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="0dp">
+
+            <TextView
+                android:id="@+id/content143"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="143. 나는 지금부터 약 5년간 내가 하고 싶은 것에 대한 계획을 가지고 있다."
+                android:textSize="17sp" />
+
+            <RadioButton
+                android:id="@+id/rb143_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="전혀 그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb143_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb143_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="보통이다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb143_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb143_5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="매우 그렇다"
+                android:textSize="15sp"/>
+
+        </RadioGroup>
+
+        <RadioGroup
+            android:id="@+id/rg144"
+            android:layout_width="400dp"
+            android:layout_height="300dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="0dp">
+
+            <TextView
+                android:id="@+id/content144"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="144. 나는 실패나 좌절을 경험하더라도 희망을 잃지 않고 미래를 낙관적으로 보는 편이다."
+                android:textSize="17sp" />
+
+            <RadioButton
+                android:id="@+id/rb144_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="전혀 그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb144_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇지 않다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb144_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="보통이다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb144_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="그렇다"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/rb144_5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="매우 그렇다"
+                android:textSize="15sp"/>
+        </RadioGroup>
+
+        <Button
+            android:id="@+id/btn_move6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="다음" />
+
+
+
+    </LinearLayout>
+
+
+</ScrollView>

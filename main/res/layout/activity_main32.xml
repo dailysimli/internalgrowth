@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity32">
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="    진실성
+
+\n\n\n\n\n합리적인 것은 진실하며, 진실한 것은 합리적이다 \n
+                                                     –헤겔-
+
+\n\n\n당신은 “진실성”이라는 강점을 가진 사람입니다.\n\n\n
+\n당신은 진실을 말하고 자신을 진실한 방식으로 제시하는 능력을 가지고 있으며, 자신을 거짓 없이 드러내고 행동이나 감정을 수용하고 책임지는 사람입니다. 인간은 자신의 내면적 상태를 자발적이고 진실하게 표현하고자 하는 심리적 욕구를 지니고 있습니다. 때문에 당신이 이러한 능력을 잘 활용한 다면 주관적 행복과 긍정정서, 삶의 만족도를 증진시킬 수 있을 뿐만 아니라 경험에 대한 개방성, 공감, 자기실현을 높일 수 있습니다.
+
+\n\n\n대표 인물)
+\n에이브러햄 링컨
+
+\n\n\n증진방법)
+\n1. 친구에게 하는 거짓말(거짓 칭찬이나 아부)을 삼간다.
+\n2. 내가 가장 중요하게 여기는 가치들에 대해서 생각해보고 그것과 일치하는 행동이나 일들을 매일 실행해본다.
+\n3. 어떤 사람에게 나의 동기나 의도를 설명할 때 진솔하고 정직하게 말한다."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</ScrollView>

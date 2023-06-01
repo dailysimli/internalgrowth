@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity16">
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="   리더십
+\n\n\n\n\n인생에서 가장 끈질기고 시급한 질문은 ‘당신은 남을 위해 무엇을 하고 있습니까?’입니다.
+\n                                          -마틴 루터 킹 주니어-\n\n\n
+\n당신은 “리더십”이라는 강점을 가지고 있습니다.\n\n\n
+집단 활동을 조직화하고 그러한 활동이 진행되는 것을 파악하여 관리하는 능력이 뛰어나며 구성원을 고무시켜 좋은 관계를 창출해내고 사기를 진작시켜 각자의 일을 해내도록 지휘하는 능력이 뛰어납니다.
+
+\n\n\n증진방법)
+\n1.친구들을 위해서 사교적인 모임을 주선해본다.
+\n2.내가 속한 팀이 잘 해내고 있지 못한 과제에 대해서 책임을 지고 그것이 잘 해결되도록 노력해본다.
+\n3. 새로운 사람이 환영받는다는 느낌을 갖도록 행동해본다.
+"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</ScrollView>

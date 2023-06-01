@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity12">
+
+
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="     신중성                                                             \n\n\n\n\n용기와 힘이 있더라도 신중성이 결여되었다면 그것은 없는 거나 마찬가지임을 잊지 말라.\n
+                                                    -노자- \n\n\n
+
+\n당신은 “신중성”이라는 강점을 가진 사람입니다.\n\n\n
+\n당신은 선택을 조심스럽게 함으로써 불필요한 위험에 처하지 않으며 나중에 후회할 말이나 행동을 하지 않는 능력이 뛰어납니다. 당신은 자기 성찰적이고, 신중하며, 일상생활의 현실적인 선택들에 대해서 깊이 생각하는 경향을 가지고 있습니다. 이런 사람들은 자신이 처하게 될 미래의 상황에 대해 선견지명을 갖고, 그것에 대해 생각하며, 계획을 세우고, 장기적 목표와 열망을 유지해 인생을 일관성 있고 안정되며 통합된 형태로 이끌어 가는 능력을 가지고 있습니다.  당신이 가지고 있는 신중성을 잘 활용한다면, 심리적 안녕과 친화적인 대인관계에 큰 도움이 되며 단기적 쾌락으로 혹은 모든 극단적인 감정적 동요로부터 자신을 보호할 수 있습니다.
+
+\n\n\n증진 방법)
+\n1. “고마워요”, “미안합니다”라는 말 이외의 무언가를 말하기 전에 한 번 더 생각해본다.
+\n2. 운전을 할 때 규정 속도 이하로 천천히 운전을 해본다.
+
+\n3. 간식을 먹기 전에 “이것이 건강에 도움이 되는지” 자신에게 질문해본다.
+"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</ScrollView>

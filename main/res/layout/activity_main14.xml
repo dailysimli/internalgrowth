@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity14">
+
+
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="      시민정신                                                           \n\n\n\n\n건강한 공동체 생활과 관련된 사회적 강점, 공동체 구성원의 평등성과 공평성을 실현하는 데 필요한 덕목이다.\n\n
+
+ 시민정신
+혼자서는 작은 한 방울이지만 함께 모이면 바다를 이룹니다.\n\n
+                -일본작가 Ryunosuke Satoro-\n\n\n
+
+\n당신은 “시민 정신”이라는 강점을 가지고 있습니다.\n\n\n
+당신은 자신이 속한 집단의 이익을 추구하고자 하는 책임의식이 강하며 사회나 조직 속에서 자신에게 주어진 임무와 역할을 인식하고 부응하려는 태도를 지녔습니다. 즉 당신은 한 집단의 구성원으로서 자신에게 주어진 역할과 임무를 충실하게 수행하면서 집단에 대한 충성과 헌신을 나타내려고 노력하는 사람입니다.
+
+\n\n\n증진노력)
+\n1.공동의 일에서 내가 할 수 있는 한 최선의 협력자가 되려고 노력한다.
+\n2.매일 5분을 할애하여 길거리의 쓰레기를 주워 휴지통에 넣어본다
+\n3.자선단체나 봉사단체에 자원하여 돕는다."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</ScrollView>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity31">
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="  끈기
+\n\n\n\n\n한 걸음 한 걸음 단계를 밟아 나아가라. 그것이 무언가를 성취하기 위한 내가 아는 유일한 방법이다.\n
+                                                - 마이클 조던-
+
+\n\n\n당신은 “끈기”라는 강점을 가지고 있습니다.\n\n\n당신은 시작한 일을 끝까지 노력해 마무리하여 완성하는 능력을 가지고 있습니다. 당신는 여러번의 난관에도 불구하고 포기하지 않고 목표를 향해 꾸준히 나아가며, 이러한 인내를 통해 얻게 되는 성공적 결과를 즐깁니다. 당신이 이 능력을 잘 활용한다면, 이 능력을 통해성취하기 어려운 목표를 달성할 가능성을 높일 수 있으며 또한 이러한  역경을 견뎌내며 무언가를 완수한 경험은 무엇이든 성취해낼 수 있다는 자신감 즉, 자기 효능감을 향상에 큰 도움이 될 것입니다.
+
+
+\n\n\n대표 인물)
+\n토머스 에디슨
+\n\n\n증진방법)
+\n1. 해야 할 일들의 목록을 만들어보고, 매일 그 목록에 있는 일들을 하나씩 해본다.
+\n2. 중요한 일들을 계획한 것보다 일찍 완성해본다.
+\n3. 쉬지 않고 계속 여러 시간 동안 일을 해본다. 예를 들어 TV를 보지 않거나 전화를 받지 않거나 간식을 먹지 않거나 또는 이메일을 확인하지 않으면서 한 가지 일을 계속해 본다."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</ScrollView>

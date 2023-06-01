@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity33">
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="    활력
+\n\n\n\n\n당신은 “활력” 이라는 강점을 가진 사람입니다.
+\n\n\n당신은 활기차고 적극적으로 살아가는 동시에 생동감과 행동력을 지니고 삶과 일을 대하는 태도를 가지고 있습니다. 즉 당신은 추구하는 목표를 향해 열의를 지니고 강렬하게 추진하는 사람입니다. 이 강점은 신체적 건강과 밀접한 관련을 맺고 있어 신체적 증상, 육체적 질병이나 장애, 면역력 저하를 예방해 줄 뿐만 아니라 심리적 행복과 밀접한 관계를 지니기 때문에 당신이 이 능력을 잘 활용한다면 심신 건강증진에 큰 도움이 될 것입니다.
+
+\n\n\n대표 인물)
+\n달라이 라마
+
+\n\n\n증진방법)
+  \n->Ryan과 Frederick(1997)에 따르면, 흡연/ 운동/ 식사조절 등과 같은 생활습관이 활력과 관련되어있다
+\n\n\nex) 흡연을 하고 운동과 식사조절을 하지 않은 사람들은 주관적 활력이 낮았다. 운동은 활력을 증가시키는 것으로 알려져 있으며, 특히 신체적 장애로 인하여 활력이 저하된 환자들에게 효과적이다.
+
+\n\n\n1. 일주일 동안 매일 자명종이 필요하지 않도록 일찍 잠자리에 들고 평소의 기상 시간보다 일찍 일어나서 영양가 있는 아침식사를 한다.
+\n2. 규칙적인 생활과 운동그리고 영양가 있는 식사를 한다.
+\n3. “왜 해야 되지?” 라고 말하기 보다 “왜 하지 말아야 되지?” 라고 말해본다.
+\n4. 의무적으로 해야 하는 일이 아니라 진정으로 원하는 일을 매일 해본다."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</ScrollView>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity21">
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="    낙관성
+\n\n\n\n\n우리를 행복하게 만드는 것은 우리를 둘러싼 환경이나 조건이 아니라, 늘 긍정적으로 세상을 바라보며 아주 작은 것에서 부터 행복을 찾아내는 우리 자신의 생각이다. \n
+                                             -에이브러험 링컨-
+
+\n\n\n당신은 “낙관성”이라는 강점을 가진 사람입니다.\n\n\n
+\n당신은 소망하는 일들이 미래에 실현될 것으로 기대하는 희망적인 태도, 즉 미래에 대한 긍정적인 태도를 가질 수 있는 능력이 있습니다. 당신이 이 능력을 잘 활용한다면 이 능력을 통해 인생의 밝은 면을 보게 되는 빈도가 늘어나고, 이에 어려움 속에서도 용기와 희망을 잃지 않으며, 목표를 위해 적극적으로 노력하는데 큰 도움이 될 것입니다.
+
+\n\n\n증진방법)
+\n1. 과거에 실패했던 일들을 생각해보고 그것으로 인해 오히려 도움을 받게 된 경우를 생각해본다.
+\n2. 다음주, 다음 달 그리고 내년에 해야 할 목표를 적어본다. 그다음 그러한 목표를 실현할 수 있는 구체적인 계획을 세워본다.
+\n3. 나의 비관주의적인 생각들을 반박하며 그것에 저항 해본다."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</ScrollView>

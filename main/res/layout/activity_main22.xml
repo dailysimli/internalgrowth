@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity22">
+
+
+
+
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="      창의성
+\n\n\n\n\n황금은 땅 속에서보다 인간의 생각 속에서 더 많이 채굴되었다. \n
+                                           -나폴레온 힐(작가)-
+
+\n\n\n당신은 “창의성”이라는 강점을 가진 사람입니다.\n\n\n
+\n당신은 독창적일 뿐만 아니라 적응적인 사고와 행동을 만들어내는 특성을 가지고 있습니다. 당신은 평범하지 않은 기발하고 놀라운 독창적인 생각이나 행동을 잘 보이며, 주어진 문제에 대해서 매우 다양한 응답을 만들어내는 능력인 확산적 사고가 뛰어납니다. 당신이 이 능력을 잘 활용한다면 이 능력을 통해 가정이나 직장에서 부딪히는 일상적인 문제들을 효과적으로 해결할 수 있을 뿐만 아니라 자기실현에 큰 도움이 될 것 입니다.
+
+\n\n\n대표 인물)
+아인슈타인, 피카소
+
+\n\n\n증진방법)
+\n본인의 강점과 관련되거나 키울 수 있는 활동들을 계획해서 활동해 보세요!
+
+\n1. 도예, 사진술, 조각, 회화, 서예를 가르치는 교육 프로그램을 등록한다.
+\n2. 집에 있는 어떤 물건을 선택하여 그것의 평소 용도와 다른 새로운 용도를 가능한 한 많이 생각해본다.
+\n3. 나름대로 시를 써보고 내가 쓴 시를 적어서 친구에게 보내본다."
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+</ScrollView>
+
+
+

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity20">
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="   영성
+\n\n\n\n\n당신은 “영성”이라는 강점을 가진 사람입니다.\n\n\n
+\n당신은 궁극적인 것, 절대적인 것, 영원한 것, 성스러운 것과 같은 인생의 초월적 측면에 대한 관심과 믿음을 추구하는 태도를 가지고 있습니다. 당신이 이 능력을 잘 활용한다면 이 능력을 통해 인생의 의미와 목적의식을 느끼고 충만한 삶을 살아갈 수 있으며 더불어 강렬한 초월 경험을 경험할 수 있습니다. 또한 역경을 이겨낼 수 있는 심리적 강인함을 얻을 수 있고 인생과 세상에 대한 다양한 의문을 해소할 수 있습니다.
+
+
+
+
+\n\n\n증진방법)
+\n1. 매일 인생의 목적에 대해서 생각해 본다.
+\n2. 하루를 시작하기 전에 기도를 하거나 명상을 해본다.
+\n3. 나에게 익숙하지 않은 종교의 의식에 참석해본다.
+"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</ScrollView>

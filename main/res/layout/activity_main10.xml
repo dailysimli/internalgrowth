@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity10">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="         용서                                                            \n\n\n\n\n용서하지 않는 사람은 자기가 지나가야 할 다리를 파괴하는 사람이다. \n\n\n
+                                               -조지 허버트-\n
+
+\n\n\n자신을 보호할 수 있는 능력이 뛰어난 사람\n\n
+
+\n당신은 “용서”라는 강점을 가지고 있는 사람입니다.
+\n\n\n당신은 공격이나 상처를 받은 피해자가 가해자에게 나타내는 긍정적인 심리적 변화, 즉 용서를 하는 능력이 뛰어난 사람입니다. 보통 사람들은 어떤 사람으로부터 매우 부당하거나 억울한 일을 당한 사람은 그 가해자에 대해서 분노에 휩싸일 뿐만 아니라 복수하고 싶은 강렬한 욕구를 느끼게 되고 보복 행동을 하게 됩니다. 그러나 보복 행위를 통해 원한의 감정을 충분히 충족시켰을 때 사람들은 오히려 공허감을 느낀다고 합니다. 결국 이러한 분노 감정과 보복행동은 피해자와 가해자 모두에게 불행한 결과를 초래하게 됩니다. 하지만 당신은 상대방에 대한 분노감정과 보복 욕구를 개인이 자발적으로 내려놓는 능력이 뛰어나 미움과 증오로부터 자신을 보호할 수 있는 능력을 가지고 있습니다. 당신이 이능 력을 잘 활용한다면, 살아가면서 경험하게 되는 분노로 부터 자신을 보호할 수 있습니다.
+
+\n\n\증진방법)
+\n1. 매일 경험한 불쾌한 분노 감정은 그 날에 풀어버리고 오래도록 마음속에 담아두지 않는다.
+\n2. 분노를 느끼게 되면, 정당한 분노라 할지라도, 그것을 상대방에게 직설적으로 표현하기 보다 서로의 관계를 해치지 않는 방법을 찾아본다.
+\n3. 용서 편지를 쓴다.
+   >나에게 불쾌한 일을 한 사람을 용서하는 편지를 써보고 그것을 보내지는 않지만 일주일      동안 매일 읽어본다."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</ScrollView>

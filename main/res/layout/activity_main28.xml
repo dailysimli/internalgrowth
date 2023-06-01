@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity28">
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="     친절성
+
+\n\n\n\n\n친절은 온갖 모순을 해결하면서 생활을 장식한다. 얽힌 것을 풀어 주고 난해한 것을 수월하게 해주며 암울한 것을 환희로 바꾸어 놓는다.
+\n                                                 - 체스터필드-
+
+\n\n\n당신은 “친절성” 이라는 강점을 가지고 있습니다.\n\n\n당신은 이타적 사랑, 관대성, 배려, 보살핌과 같은 것들로 인간의 이기적이고 공격적인 성향으로부터 인간 세상을 조화와 균형 속에서 좀 더 따뜻해지도록 만드는 데 기여하는 능력을 가지고 있습니다. 당신은 선한 행동을 하려는 동기가 높고 실천력을 지니고 있어 자신의 이익에 상관없이 다른 사람을 돕고 보살피는 경향성을 지니고 있습니다. 당신이 이 능력을 잘 활용한다면 이 능력을 통해 긍정적인 정서를 느낄 수 있을 뿐만 아니라 이 활동들이 심신건강에 많은 도움이 될 것입니다.
+
+\n\n\n증진방법)
+\n1. 병원이나 요양원에 있는 누군가를 방문하여 위로한다.
+\n2. 운전을 하면서 보행자에게 양보한다. 걸으면서 차에게 양보한다.
+\n3. 친구나 가족을 위해 몰래 좋은 일을 해본다."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</ScrollView>

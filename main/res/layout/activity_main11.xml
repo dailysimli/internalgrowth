@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity11">
+
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="       겸손                                                        \n\n\n\n\n겸손 하라, 진실로 겸손 하라. 왜냐하면 그대는 아직 위대하지 못하기 때문이다. 진실로 겸손은 자기완성의 토대이다.\n\n\n                                                  -톨스토이-\n\n
+
+\n우선 겸손을 배우려 하지 않는 자는 아무것도 배우지 못한다. (O.메러디드 )\n
+
+
+\n자신을 보호할 수 있는 능력이 뛰어난 사람\n\n\n당신은 “겸손”이라는 강점을 가진 사람입니다.\n\n\n당신은 자신의 장점이나 성취에 대해서 절제된 평가를 하는 능력이 뛰어납니다. 당신은 자신에 대해 긍정적인 견해를 가지고 있으며, 세상 모든 것의 소중함을 인정하는 태도를 가지고 있습니다. 또한 한계와 장점을 지닌 자신을 있는 그대로 정확하게 보려는 태도를 지니고 있어 자신의 이미지를 방어하고 보상하고 입증하기 위해서 정보를 일부러 왜곡하지 않습니다. 당신이 이 능력을 잘 활용한다면, 타인과의 유대감 뿐만 아니라 정서적 안녕감과 자기조절능력을 향상시킬 수 있습니다.
+
+\n\n\n증진방법)
+\n1. 하루 동안 자신을 주장하거나 내세우는 말을 전혀 하지 않는다.
+\n2. 아무도 나에게 주의를 주지 않을 평범한 옷차림새를 하고 지내본다.
+\n3. 친구가 나보다 훨씬 더 잘 하는 것들에 대해서 생각해본다. 그리고 그것에 관해서 친구를 칭찬해준다."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</ScrollView>

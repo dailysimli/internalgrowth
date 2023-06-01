@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity13">
+
+
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="      자기조절                                                                        \n\n\n\n\n이성을 사용하지 못하는 사람은 감정을 동원한다. 이성이 인간을 만들어낸다고 하면, 감정은 인간을 이끌어간다. \n
+                                          -루소-\n\n\n
+
+\n당신은 “자기조절”이라는 강점을 가진 사람입니다.
+\n\n\n당신은 지향하는 목표나 기준에 도달하기 위해서 자신의 생각, 감정, 충동, 행동을 조절하고 통제할 수 있는 능력이 뛰어납니다. 약물 중독과 남용, 범죄와 폭력, 성적으로 옮겨지는 질병들, 학교에서의 낮은 수행, 개인 부채, 분노와 적대감, 규칙적인 운동의 실패, 과식과 같은 자기조절 실패로 인한 다양한 개인적 사회적 문제를 생각해 본다면 자기조절은 중요한 능력이라고 할 수 있습니다. 당신이 이 능력을 잘 활용한다면 이러한 모든 극단적인 감정적 동요로부터 본인을 보호해 삶에 큰 도움이 될 것입니다.
+
+\n\n\n증진방법)
+\n1. 운동 프로그램을 시작하고 일주일 동안 매일 운동을 해본다.
+\n2. 다른 사람에 대한 험담이나 비난을 하지 않도록 노력한다.
+\n3. 열을 받아 화가 날 때 10까지 숫자를 세어본다. 필요하면 한 번 더 반복한다. "
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</ScrollView>

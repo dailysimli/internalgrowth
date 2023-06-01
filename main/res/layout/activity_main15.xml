@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity15">
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="        공정성                                                          \n\n\n\n\n관직을 다스릴 때에는 공평함 만 한 것이 없고, 재물에 임하여는 청렴함 만 한 것이 없다.
+   \n                                                       -충자\n\n\n
+
+\n당신은 “공정성” 이라는 강점을 가진 사람입니다.\n\n\n
+당신은 편향된 개인적 감정의 개입 없이 모든 사람을 동등하게 대하고 모두에게 공평한 기회를 주는 사람입니다.
+
+\n\n\n증진방법)
+\n1.적어도 하루에 한 번씩 실수를 인정하고 그것에 대하 책임의식을 느껴본다.
+\n2.적어도 하루에 한 번씩 내가 싫어하는 사람의 장점을 생각해 본다.
+\n3.다른 사람들이 주장하는 것을 간섭하지 않은 채로 끝까지 경청해본다.
+"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</ScrollView>
